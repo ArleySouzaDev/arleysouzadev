@@ -1,4 +1,4 @@
-### Olá, eu sou Arley de Souza, estudante de Tecnologia e entusiasta. 😁
+### Olá, eu sou Arley de Souza, estudante de Ciência da Computação e entusiasta de tecnologias. 😁
 
 
 - 🔭 Estou a procura de estágio.
