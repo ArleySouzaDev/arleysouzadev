@@ -1,8 +1,8 @@
-### Olá, eu sou Arley de Souza, estudante de Ciência da Computação e entusiasta de tecnologias. 😁
+### Olá, eu sou Arley de Souza, estudante de Ciência da Computação, entusiasta de tecnologias e apaixonado por Python. 😁
 
 
 - 🔭 Estou a procura de estágio.
-- 🌱 Estudando Python.
+- 🌱 Focado em aprender sobre o backend.
  
 
 ##
