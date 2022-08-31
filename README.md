@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou a procura de estágio.
-- 🌱 Focado em aprender sobre o backend.
+
  
 
 ##
