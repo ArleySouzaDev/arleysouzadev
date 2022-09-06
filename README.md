@@ -13,10 +13,9 @@
   <img align="center" alt="Arley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Arley-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Arley-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Arley-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Arley-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  
   
 </div>
   
