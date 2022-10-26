@@ -1,7 +1,10 @@
-### Olá, eu sou Arley de Souza, estudante de Ciência da Computação, entusiasta de tecnologias e apaixonado por Python. 😁
+### Olá, sou Arley de Souza, totalmente apaixonado por tecnlogia desde novo, hoje me encontro focado em aprender sobre desenvolvimento Web e Software.
+    Com a mente aberta sigo estudando e disposto a sempre está aprendendo da melhor forma possível... 😁
 
 
-- 🔭 Estou a procura de estágio.
+-  Estou a procura de estágio.
+-  Atualmente me aprofundando em Web Develper.
+-  Paixão por games, competitividade e escrita.
 
  
 
