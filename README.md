@@ -5,6 +5,7 @@
 -  Estou a procura de estágio.
 -  Atualmente me aprofundando em Web Develper.
 -  Paixão por games, competitividade e escrita.
+-  Atualmente focado em aprender Java e me aprofundar em conhecimentos de BackEnd.
 
  
 
@@ -15,9 +16,11 @@
   <img align="center" alt="Arley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Arley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg">
   <img align="center" alt="Arley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Arley-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Arley-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    
   
   
 </div>
