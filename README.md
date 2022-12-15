@@ -1,6 +1,6 @@
 ### Olá, sou Arley de Souza, totalmente apaixonado por tecnlogia desde novo, hoje me encontro focado em aprender sobre desenvolvimento Web.
     Com a mente aberta sigo estudando e disposto a sempre está tentando me superar e quebrar barreiras... 😁
-
+    OBS: Cozinheiro e Escritor nas horas vagas.
 
 -  Estou a procura de estágio.
 -  Atualmente me aprofundando em Web Develper.
