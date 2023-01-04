@@ -1,11 +1,28 @@
-### Olá, sou Arley de Souza, totalmente apaixonado por tecnlogia desde novo, hoje me encontro focado em aprender sobre desenvolvimento Web.
+### Portuguese / English
+
+    Olá, sou Arley de Souza, totalmente apaixonado por tecnlogia desde novo,
+    hoje me encontro focado em aprender sobre desenvolvimento Web.
     Com a mente aberta sigo estudando e disposto a sempre está tentando me superar e quebrar barreiras... 😁
     OBS: Cozinheiro e Escritor nas horas vagas.
+        
+    Atualmente me aprofundando em Web Develper.
+    Paixão por games, competitividade e escrita.
+    Atualmente focado em aprender Java e Python e buscando me aprofundar em conhecimentos de BackEnd.
+    
+    ==================================================================================================================
+    
+    (Hello, I'm Arley de Souza, totally in love with technology since I was young,
+    today I'm focused on learning about web development.
+    With an open mind, I continue studying and willing to always try to overcome myself and break down barriers... 😁
+    OBS: Cook and Writer in his spare time.
+    
+    Currently delving into Web Developer.
+    Passion for games, competitiveness and writing.
+    Currently focused on learning Java and Python and looking to deepen my knowledge of BackEnd.)
+    
+    
+    
 
--  Estou a procura de estágio.
--  Atualmente me aprofundando em Web Develper.
--  Paixão por games, competitividade e escrita.
--  Atualmente focado em aprender Java e me aprofundar em conhecimentos de BackEnd.
 
  
 
